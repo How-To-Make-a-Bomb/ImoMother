@@ -181,6 +181,8 @@
             this.wheatTxtBox.Name = "wheatTxtBox";
             this.wheatTxtBox.Size = new System.Drawing.Size(53, 37);
             this.wheatTxtBox.TabIndex = 11;
+            this.wheatTxtBox.Text = "0";
+            this.wheatTxtBox.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
             // 
             // wheatInc
             // 
@@ -219,6 +221,7 @@
             this.cornTxtBox.Name = "cornTxtBox";
             this.cornTxtBox.Size = new System.Drawing.Size(53, 37);
             this.cornTxtBox.TabIndex = 8;
+            this.cornTxtBox.Text = "0";
             this.cornTxtBox.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
             // 
             // cornInc
@@ -258,6 +261,7 @@
             this.riceTxtBox.Name = "riceTxtBox";
             this.riceTxtBox.Size = new System.Drawing.Size(53, 37);
             this.riceTxtBox.TabIndex = 5;
+            this.riceTxtBox.Text = "0";
             this.riceTxtBox.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
             // 
             // riceInc

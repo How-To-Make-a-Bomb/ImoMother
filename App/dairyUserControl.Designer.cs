@@ -181,6 +181,8 @@
             this.yogurtTxtBox.Name = "yogurtTxtBox";
             this.yogurtTxtBox.Size = new System.Drawing.Size(53, 37);
             this.yogurtTxtBox.TabIndex = 11;
+            this.yogurtTxtBox.Text = "0";
+            this.yogurtTxtBox.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
             // 
             // yogurtDec
             // 
@@ -219,6 +221,8 @@
             this.cheeseTxtBox.Name = "cheeseTxtBox";
             this.cheeseTxtBox.Size = new System.Drawing.Size(53, 37);
             this.cheeseTxtBox.TabIndex = 8;
+            this.cheeseTxtBox.Text = "0";
+            this.cheeseTxtBox.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
             // 
             // cheeseInc
             // 

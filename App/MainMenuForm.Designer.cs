@@ -62,7 +62,7 @@
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackgroundImage = global::GroceryAppWindowsForm.Properties.Resources.a;
             this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.ClientSize = new System.Drawing.Size(640, 430);
+            this.ClientSize = new System.Drawing.Size(629, 426);
             this.Controls.Add(this.button2);
             this.Controls.Add(this.button1);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
