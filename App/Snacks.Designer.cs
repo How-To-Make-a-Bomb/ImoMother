@@ -178,6 +178,8 @@
             this.cookieTxtBox.Name = "cookieTxtBox";
             this.cookieTxtBox.Size = new System.Drawing.Size(53, 37);
             this.cookieTxtBox.TabIndex = 11;
+            this.cookieTxtBox.Text = "0";
+            this.cookieTxtBox.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
             // 
             // cookieInc
             // 
@@ -216,6 +218,7 @@
             this.nachoTxtBox.Name = "nachoTxtBox";
             this.nachoTxtBox.Size = new System.Drawing.Size(53, 37);
             this.nachoTxtBox.TabIndex = 8;
+            this.nachoTxtBox.Text = "0";
             this.nachoTxtBox.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
             // 
             // nachoInc
@@ -255,6 +258,7 @@
             this.nanaTxtBx.Name = "nanaTxtBx";
             this.nanaTxtBx.Size = new System.Drawing.Size(53, 37);
             this.nanaTxtBx.TabIndex = 5;
+            this.nanaTxtBx.Text = "0";
             this.nanaTxtBx.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
             // 
             // nanaInc

@@ -181,6 +181,8 @@
             this.bagelTxtBox.Name = "bagelTxtBox";
             this.bagelTxtBox.Size = new System.Drawing.Size(53, 37);
             this.bagelTxtBox.TabIndex = 11;
+            this.bagelTxtBox.Text = "0";
+            this.bagelTxtBox.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
             // 
             // bagelDec
             // 
@@ -219,6 +221,8 @@
             this.croissantTxtBox.Name = "croissantTxtBox";
             this.croissantTxtBox.Size = new System.Drawing.Size(53, 37);
             this.croissantTxtBox.TabIndex = 8;
+            this.croissantTxtBox.Text = "0";
+            this.croissantTxtBox.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
             // 
             // croissantInc
             // 
@@ -257,6 +261,7 @@
             this.breadTxtBx.Name = "breadTxtBx";
             this.breadTxtBx.Size = new System.Drawing.Size(53, 37);
             this.breadTxtBx.TabIndex = 5;
+            this.breadTxtBx.Text = "0";
             this.breadTxtBx.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
             // 
             // breadInc

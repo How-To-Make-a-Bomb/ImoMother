@@ -66,8 +66,8 @@ namespace GroceryAppWindowsForm
         private void croissantDec_Click(object sender, EventArgs e) => UpdateCount(croissantTxtBox, ref croissantCount, false);
 
         
-        private void bagelInc_Click(object sender, EventArgs e) => UpdateCount(bagelTxtBox, ref bagelCount, true);
-        private void bagelDec_Click(object sender, EventArgs e) => UpdateCount(bagelTxtBox, ref bagelCount, false);
+        private void bagelInc_Click(object sender, EventArgs e) => UpdateCount(bagelTxtBox, ref bagelCount, false);
+        private void bagelDec_Click(object sender, EventArgs e) => UpdateCount(bagelTxtBox, ref bagelCount, true);
 
         private void breadAddBtn_Click(object sender, EventArgs e)
         {

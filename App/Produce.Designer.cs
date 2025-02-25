@@ -180,6 +180,8 @@
             this.carrotsTxtBox.Name = "carrotsTxtBox";
             this.carrotsTxtBox.Size = new System.Drawing.Size(53, 37);
             this.carrotsTxtBox.TabIndex = 11;
+            this.carrotsTxtBox.Text = "0";
+            this.carrotsTxtBox.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
             // 
             // carrotsInc
             // 
@@ -218,6 +220,7 @@
             this.appleTxtBox.Name = "appleTxtBox";
             this.appleTxtBox.Size = new System.Drawing.Size(53, 37);
             this.appleTxtBox.TabIndex = 8;
+            this.appleTxtBox.Text = "0";
             this.appleTxtBox.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
             // 
             // appleInc
@@ -257,6 +260,7 @@
             this.cabbageTxtBox.Name = "cabbageTxtBox";
             this.cabbageTxtBox.Size = new System.Drawing.Size(53, 37);
             this.cabbageTxtBox.TabIndex = 5;
+            this.cabbageTxtBox.Text = "0";
             this.cabbageTxtBox.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
             // 
             // cabbageInc

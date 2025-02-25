@@ -181,6 +181,8 @@
             this.sodaTxtBox.Name = "sodaTxtBox";
             this.sodaTxtBox.Size = new System.Drawing.Size(53, 37);
             this.sodaTxtBox.TabIndex = 11;
+            this.sodaTxtBox.Text = "0";
+            this.sodaTxtBox.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
             // 
             // sodaInc
             // 
@@ -219,6 +221,7 @@
             this.wineTxtBox.Name = "wineTxtBox";
             this.wineTxtBox.Size = new System.Drawing.Size(53, 37);
             this.wineTxtBox.TabIndex = 8;
+            this.wineTxtBox.Text = "0";
             this.wineTxtBox.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
             // 
             // wineInc
@@ -258,6 +261,7 @@
             this.jceTxtBx.Name = "jceTxtBx";
             this.jceTxtBx.Size = new System.Drawing.Size(53, 37);
             this.jceTxtBx.TabIndex = 5;
+            this.jceTxtBx.Text = "0";
             this.jceTxtBx.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
             // 
             // jceInc
